@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://freelancetaxcalc.com"),
+  metadataBase: new URL("https://freelance-tax-calculator-six.vercel.app"),
   title: "Free US Freelance Tax Calculator 2025 | Self-Employment Tax Estimator",
   description:
     "Calculate your 2025 freelance taxes instantly. Accurate federal and state tax estimates for self-employed workers and independent contractors. Free, fast, and easy to use.",
@@ -36,7 +36,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://freelancetaxcalc.com",
+    url: "https://freelance-tax-calculator-six.vercel.app",
     title: "Free US Freelance Tax Calculator 2025 | Self-Employment Tax Estimator",
     description:
       "Calculate your 2025 freelance taxes instantly. Accurate federal and state tax estimates for self-employed workers and independent contractors. Free, fast, and easy to use.",
@@ -59,7 +59,7 @@ export const metadata: Metadata = {
     creator: "@freelancetaxcalc",
   },
   alternates: {
-    canonical: "https://freelancetaxcalc.com",
+    canonical: "https://freelance-tax-calculator-six.vercel.app",
   },
   viewport: {
     width: "device-width",
@@ -106,8 +106,8 @@ const structuredData = {
     "Quarterly payment estimates",
     "Real-time tax calculations",
   ],
-  screenshot: "https://freelancetaxcalc.com/og-image.png",
-  url: "https://freelancetaxcalc.com",
+  screenshot: "https://freelance-tax-calculator-six.vercel.app/og-image.png",
+  url: "https://freelance-tax-calculator-six.vercel.app",
   author: {
     "@type": "Organization",
     name: "Freelance Tax Calculator",

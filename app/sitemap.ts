@@ -1,7 +1,7 @@
 import { MetadataRoute } from "next"
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = "https://freelancetaxcalc.com"
+  const baseUrl = "https://freelance-tax-calculator-six.vercel.app"
   const currentDate = new Date()
 
   return [

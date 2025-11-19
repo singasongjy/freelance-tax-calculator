@@ -1,7 +1,7 @@
 import { MetadataRoute } from "next"
 
 export default function robots(): MetadataRoute.Robots {
-  const baseUrl = "https://freelancetaxcalc.com"
+  const baseUrl = "https://freelance-tax-calculator-six.vercel.app"
 
   return {
     rules: {
